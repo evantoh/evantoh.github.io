@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  color: #7B1FA2;
+  font-style: oblique;
+
+}
+.sidebar{
+  float: left;
+  width: 300px;
+}
+
+}
+.cats p {
+background-color: coral;
+}
